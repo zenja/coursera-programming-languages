@@ -1,2 +1,2 @@
-# coursera-programming-languages-part-1
-My solutions to Coursera programming languages course part 1
+# coursera-programming-languages
+My solutions to Coursera programming languages course
